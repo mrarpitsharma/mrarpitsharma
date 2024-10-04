@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java Adavnced
 - 💞️ I’m looking to collaborate on Nasa
-- 📫 How to reach me-insta- _mr_arpit24
+- 📫 How to reach me whatsapp-9831820740
 
 <!---
 mrarpitsharma/mrarpitsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
