@@ -20,7 +20,7 @@
 ## Connect With Me
 
 LinkedIn: arpit-sharma-s13241117413
-Email: arpitsharma983182@gmail.com
+Email: arpitsharma9831822@gmail.com
 
 <!---
 mrarpitsharma/mrarpitsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
